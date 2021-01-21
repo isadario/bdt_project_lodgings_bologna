@@ -10,6 +10,8 @@ To interact with the notebook as dashboard it needs to be downloaded and the env
 
 Here below the GIFS are meant to display how it is viewed in Voila.   
 
-Here below a demo for the filter on top of the clustering (from PCA scores) function: 
+Here below a demo for the geospatial analysis 
+![popularity](demo_gif/mostcommon.gif)
+filter on top of the clustering (from PCA scores) function: 
 ![clustering](demo_gif/clustering.gif)
 
