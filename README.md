@@ -5,8 +5,7 @@ This repo contains a project for a Big Data Technology University course.  It ai
 The notebok can be accessed here in its Binder version:
 https://hub.gke2.mybinder.org/user/isadario-bdt_pr-odgings_bologna-yple5mmj/notebooks/app.ipynb
 
-To interact with the notebook as dashboard it needs to be downloaded and the environment activated (activating the yml file or creating a new environment with the requirements.txt file) so to have the Voila button (should have been deployed on  Heroku - that's why the Procfile and runtime.txt- but I kept on stumbling on issues with the nbextension/nbconfigurator). 
-
+To interact with the notebook as dashboard it needs to be downloaded and the environment activated (activating the yml file or creating a new environment with the requirements.txt file) so to have the Voila button. 
 
 Here below the GIFS display some of the results (though in much worse quality)  
 
