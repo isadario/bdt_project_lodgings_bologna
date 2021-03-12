@@ -3,7 +3,7 @@
 This repo contains a project for a Big Data Technology University course.  It aims to analyse offer of lodgings in Bologna, cluster them and make suggestions to a potential host.  
 
 The notebok can be accessed here in its Binder version:
-https://hub.gke2.mybinder.org/user/isadario-bdt_pr-odgings_bologna-yple5mmj/notebooks/app.ipynb
+https://notebooks.gesis.org/binder/v2/gh/isadario/bdt_project_lodgings_bologna/77766e4f619091e8ff31b27ae617e70189135fa3
 
 To interact with the notebook as dashboard it needs to be downloaded and the environment activated (activating the yml file or creating a new environment with the requirements.txt file) so to have the Voila button. 
 
